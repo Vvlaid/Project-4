@@ -5,9 +5,10 @@
 </p>
 
 ### The Challenge:
-What are some factors in phone usage behavior?
-How can these insights help developers optimize app performance and reduce battery consumption?
-Why this matters? Efficient mobile devices can reduce environmental impact.
+- What are some factors in phone usage behavior?
+- How can these insights help developers optimize app performance and reduce battery consumption?
+- Why this matters?
+   - Efficient mobile devices can reduce environmental impact.
 
 
 https://www.weforum.org/agenda/2014/09/mobile-phones-energy-efficient/#:~:text=The%20result%20is%20that%20mobile,nearly%205%20million%20American%20homes
