@@ -5,10 +5,12 @@
 </p>
 
 ### The Challenge:
-Why does Mobile Device Usage and User Behavior matter? All in all, it's to take care of the mental health within ourselves and our communities.
-High mobile device usage is increasingly linked to poor health outcomes.
+What are some factors in phone usage behavior?
+How can these insights help developers optimize app performance and reduce battery consumption?
+Why this matters? Efficient mobile devices can reduce environmental impact.
 
-- https://www.hhs.gov/about/news/2023/05/23/surgeon-general-issues-new-advisory-about-effects-social-media-use-has-youth-mental-health.html
+
+https://www.weforum.org/agenda/2014/09/mobile-phones-energy-efficient/#:~:text=The%20result%20is%20that%20mobile,nearly%205%20million%20American%20homes
 
 
 ### Data source:
@@ -16,7 +18,6 @@ High mobile device usage is increasingly linked to poor health outcomes.
 
 
 ### Outcome:
-
 Our findings on the correlation of features within the dataset
 ![image](https://github.com/user-attachments/assets/332bebf2-b39b-4e40-9bb2-996721125fab)
 
